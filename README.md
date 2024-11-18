@@ -1,1 +1,1 @@
-Contains notes for SOLID, YAGNI, KISS which aim to serve as a reminder. 
+Contains simple explanation with examples for common design principle that are useful to follow while being a software engineer (SOLID, YAGNI, KISS). 
