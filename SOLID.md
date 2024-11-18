@@ -59,7 +59,7 @@ class Car extends Vehicle {
 We should be able to use `Vehicle car = new Car()` without any issues. 
 
 ### Interface Segregation Principle
-Interfaces should only have methods that are relevant to the implementing class.
+Interfaces should only have methods that are relevant to the implementing class. It helps avoid bloated interfaces.
 ```
 interface Printer {
     void print();
